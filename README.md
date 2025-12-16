@@ -1,2 +1,3 @@
 # ChatApp
-A multi-client TCP socket based chat application built in Java using multithreading and JavaFX for GUI.
+ChatApp is a client-server based chat application developed in Java.
+It uses TCP sockets for communication and a multi-threaded server to handle multiple clients simultaneously. The client application features a JavaFX-based graphical user interface.
