@@ -1,0 +1,10 @@
+.text-area {
+    -fx-font-family: "Consolas";
+    -fx-font-size: 13px;
+}
+
+.button {
+    -fx-background-color: #2d89ef;
+    -fx-text-fill: white;
+}
+
