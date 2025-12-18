@@ -1,4 +1,3 @@
-ChatApp
 ChatApp is a TCP socket–based chat application built in Java.
 It supports multiple clients connecting to a single server simultaneously using multithreading and provides a simple JavaFX graphical interface for communication.
 The project focuses on clean structure, reliability, and correct use of core networking and concurrency concepts.
@@ -26,6 +25,7 @@ Basic MVC pattern on the client side
 Maven for dependency and build management
 
 Project Structure (Maven Standard)
+
 ChatApp/
 ├── pom.xml
 └── src/
@@ -53,8 +53,7 @@ JavaFX is managed automatically through Maven.
 No manual JavaFX installation is required.
 
 How to Run the Application
-1. Clone the repository
-git clone <repository-url>
+1. Clone the repository, git clone <repository-url>
 cd ChatApp
 
 2. Start the server
